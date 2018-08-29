@@ -1,4 +1,4 @@
-# Microsoft IIS Web Manager
+# Microsoft IIS Web Manager - now with releases
 Microsoft IIS Web Manager provides a browser interface for users to manage local and remote installations of IIS.
 
 ## Building it yourself
